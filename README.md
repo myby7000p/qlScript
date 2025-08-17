@@ -34,3 +34,7 @@ ksjsb200广.js
 
 喜番3000.js
 
+快手极速版打卡.js
+
+ksjsb.js
+

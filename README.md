@@ -38,3 +38,9 @@ ksjsb200广.js
 
 ksjsb.js
 
+快手极速版提现.js
+
+快手提现.js
+
+kstx.js
+

@@ -44,3 +44,9 @@ ksjsb.js
 
 kstx.js
 
+快手极速版金币任务.js
+
+ksjsb.js
+
+快手极速版任务.js
+

@@ -50,3 +50,11 @@ ksjsb.js
 
 快手极速版任务.js
 
+快手极速版百日心愿.js
+
+brxy.js
+
+快手极速版老铁爱分享.js
+
+ltafx.js
+

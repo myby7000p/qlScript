@@ -58,3 +58,9 @@ brxy.js
 
 ltafx.js
 
+农夫山泉.js
+
+生肖水.js
+
+nfsq.js
+
